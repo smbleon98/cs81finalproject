@@ -14,7 +14,7 @@ Key Features and Functionality
 Technologies Used
 - React - Used this framework to create custom components and apply states to the components.
 - React hooks (usestate) - This helps give the component a state to 'store' data and a function that updates the component's data. The data is shown to the user after "renderings". 
-- Existing formulas / implementations for shuffling / randomizing Fisher-Yates shuffle
+- Existing formulas / implementations for shuffling / randomizing (Fisher-Yates shuffle)
 
 
 Instructions for Use
